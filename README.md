@@ -12,3 +12,10 @@ Here is my solution
 ```
 <div></div><div></div><div></div><div></div><style>body{padding:0;margin:0;background:#62374e;display:grid;grid-template-columns:repeat(2,50px);justify-content:space-between;align-items:center;padding:0 50px}div{width:50px;height:50px;background:#fdc57b}</style>
 ```
+
+
+### [ Battle #23 - #141.  Third Eye](https://cssbattle.dev/play/141)
+Here is my solution
+```
+<p></p><div class="d"></div><div class="d e"></div><style>*{background:#D9D9D9;margin:0}body{background:#E3516E;display:grid;place-items:center}p{width:100px;height:100px;border-radius:100% 0;transform:rotate(45deg)}.d{position:absolute;width:124px;height:124px;border-radius:80px 50px;top:-49px;left:-49px}.e{top:initial;left:initial;bottom:-49px;right:-49px;border-radius:80px 50px}</style>
+```
