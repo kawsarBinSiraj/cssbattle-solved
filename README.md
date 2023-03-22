@@ -19,3 +19,12 @@ Here is my solution
 ```
 <p></p><div class="d"></div><div class="d e"></div><style>*{background:#D9D9D9;margin:0}body{background:#E3516E;display:grid;place-items:center}p{width:100px;height:100px;border-radius:100% 0;transform:rotate(45deg)}.d{position:absolute;width:124px;height:124px;border-radius:80px 50px;top:-49px;left:-49px}.e{top:initial;left:initial;bottom:-49px;right:-49px;border-radius:80px 50px}</style>
 ```
+
+
+### [ Battle #23 - #142.  Curtains](https://cssbattle.dev/play/142)
+Here is my solution
+```
+<div></div><style>body{margin:0;background:#4F77FF;display:grid;place-items:center}div{height:200px;width:300px;background:repeating-linear-gradient(90deg,#1038BF 0,#1038BF 60px,#4F77FF 60px,#4F77FF 80px,#FFFFFF 80px,#FFFFFF 100px,#4F77FF 100px,#4F77FF 120px)}</style>
+```
+
+
