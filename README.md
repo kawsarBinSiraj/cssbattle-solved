@@ -45,21 +45,91 @@ Here is my solution
 ### [ Battle #1 - #2. Carrom](https://cssbattle.dev/play/2)
 Here is my solution
 ```
-<div></div><div></div><div></div><div></div><style>body{padding:0;margin:0;background:#62374e;display:grid;grid-template-columns:repeat(2,50px);justify-content:space-between;align-items:center;padding:0 50px}div{width:50px;height:50px;background:#fdc57b}</style>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<style>
+    body {
+        padding: 0;
+        margin: 0;
+        background: #62374e;
+        display: grid;
+        grid-template-columns: repeat(2, 50px);
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 50px;
+    }
+    div {
+        width: 50px;
+        height: 50px;
+        background: #fdc57b;
+    }
+</style>
+
 ```
 
 
 ### [ Battle #23 - #141.  Third Eye](https://cssbattle.dev/play/141)
 Here is my solution
 ```
-<p></p><div class="d"></div><div class="d e"></div><style>*{background:#D9D9D9;margin:0}body{background:#E3516E;display:grid;place-items:center}p{width:100px;height:100px;border-radius:100% 0;transform:rotate(45deg)}.d{position:absolute;width:124px;height:124px;border-radius:80px 50px;top:-49px;left:-49px}.e{top:initial;left:initial;bottom:-49px;right:-49px;border-radius:80px 50px}</style>
+<p></p>
+<div class="d"></div>
+<div class="d e"></div>
+<style>
+    * {
+        background: #d9d9d9;
+        margin: 0;
+    }
+    body {
+        background: #e3516e;
+        display: grid;
+        place-items: center;
+    }
+    p {
+        width: 100px;
+        height: 100px;
+        border-radius: 100% 0;
+        transform: rotate(45deg);
+    }
+    .d {
+        position: absolute;
+        width: 124px;
+        height: 124px;
+        border-radius: 80px 50px;
+        top: -49px;
+        left: -49px;
+    }
+    .e {
+        top: initial;
+        left: initial;
+        bottom: -49px;
+        right: -49px;
+        border-radius: 80px 50px;
+    }
+</style>
+
 ```
 
 
 ### [ Battle #23 - #142.  Curtains](https://cssbattle.dev/play/142)
 Here is my solution
 ```
-<div></div><style>body{margin:0;background:#4F77FF;display:grid;place-items:center}div{height:200px;width:300px;background:repeating-linear-gradient(90deg,#1038BF 0,#1038BF 60px,#4F77FF 60px,#4F77FF 80px,#FFFFFF 80px,#FFFFFF 100px,#4F77FF 100px,#4F77FF 120px)}</style>
+<div></div>
+<style>
+    body {
+        margin: 0;
+        background: #4f77ff;
+        display: grid;
+        place-items: center;
+    }
+    div {
+        height: 200px;
+        width: 300px;
+        background: repeating-linear-gradient(90deg, #1038bf 0, #1038bf 60px, #4f77ff 60px, #4f77ff 80px, #ffffff 80px, #ffffff 100px, #4f77ff 100px, #4f77ff 120px);
+    }
+</style>
+
 ```
 
 
